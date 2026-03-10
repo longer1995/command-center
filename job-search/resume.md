@@ -28,7 +28,7 @@ Results-driven entrepreneur and operations executive with 8+ years of experience
 - Co-founded a conventional ordnance company focused on manufacturing, assembly, and international sales
 - Spearheaded fundraising efforts and capital strategy to launch and scale operations
 - Built and managed international business development pipelines across **Eastern Europe, South Asia (India/Pakistan), and South America**
-- Structured and negotiated complex international defense deals involving multi-party stakeholders, export compliance, and cross-border logistics
+- Structured and negotiated complex international defense deals involving multi-party stakeholders, **ITAR compliance**, export controls, and cross-border logistics
 - Oversaw end-to-end operations: manufacturing, assembly, quality control, sales, and distribution
 - Established relationships with international defense buyers, government entities, and supply chain partners
 
@@ -41,7 +41,8 @@ Results-driven entrepreneur and operations executive with 8+ years of experience
 - Raised **$3M in growth capital** from private investors to fund operations, inventory, and manufacturing infrastructure
 - Built and managed complete operational infrastructure: manufacturing lines, supply chain, warehousing, and distribution
 - Directed all sales and business development efforts, growing a diversified customer base across commercial and institutional channels
-- Maintained full regulatory compliance across federal, state, and ATF requirements for ammunition manufacturing and import
+- Maintained full regulatory compliance across federal, state, ATF, and **ITAR** requirements for ammunition manufacturing and import
+- Managed **government procurement** channels including **SAM.gov** registration and federal contracting
 - Managed P&L, cash flow, vendor relationships, and a team of operations and production staff
 
 ---
@@ -62,7 +63,8 @@ Results-driven entrepreneur and operations executive with 8+ years of experience
 |---|---|---|
 | **Capital Raising & Investor Relations** | **International Business Development** | **Manufacturing Operations** |
 | **Deal Structuring & Negotiation** | **Sales & Revenue Growth** | **Supply Chain & Logistics** |
-| **Defense & Ordnance Industry** | **Regulatory Compliance (ATF, Export)** | **P&L Management** |
+| **Defense & Ordnance Industry** | **Regulatory Compliance (ATF, ITAR, Export)** | **P&L Management** |
+| **Government Procurement (SAM.gov)** | | |
 | **Industrial Equipment & Valves** | **Cross-Border Trade** | **Team Building & Leadership** |
 
 ---
@@ -77,6 +79,7 @@ Results-driven entrepreneur and operations executive with 8+ years of experience
 ## ADDITIONAL
 
 - **Industries:** Defense & Ordnance, Ammunition Manufacturing, Industrial Valves (Severe Service), Restaurant Technology
+- **Regulatory:** ITAR, ATF/FFL, Export Controls, SAM.gov/Government Procurement
 - **International Markets:** Eastern Europe, India, Pakistan, South America
 - **Capital Raised:** $3M+ across ventures
 - **Revenue Generated:** $1.8M annually (American Munitions)
